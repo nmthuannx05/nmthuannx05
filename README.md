@@ -22,10 +22,7 @@
 
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img align="left" alt="Ubuntu" width="26px" src="https://camo.githubusercontent.com/f903efdd3558d099c54fafbce2aff0ccfa5a2a08d325fdd5884822ea4c270f60/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7562756e74752f7562756e74752d69636f6e2e737667" />
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="IntelliJ IDEA" width="26px" src="https://camo.githubusercontent.com/a88d9aad622c383655b34ad67e8b9fda05f3679a10aefbcfb391ff3fcc86f249/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f696e74656c6c696a2d696465612d312e737667" />
 <img align="left" alt="PyCharm" width="26px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 
@@ -43,9 +40,9 @@
 <br/>
 
 
-<!-- <hr/>
+ <hr/>
   <p align="center">
     	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nmthuannx05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nmthuannx05g&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 	<br/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nmthuannx05&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nmthuannx05" height="192px"/>
-  </p> -->
+  </p> 
