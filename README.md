@@ -41,8 +41,3 @@
 
 
  <hr/>
-  <p align="center">
-    	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nmthuannx05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nmthuannx05g&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-	<br/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nmthuannx05&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nmthuannx05" height="192px"/>
-  </p> 
